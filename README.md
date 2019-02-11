@@ -1,7 +1,8 @@
 # 	VIM CHEATSHEET
 
-*	`test.py` file to try all shortcuts
-*	`README.md` cheatsheet itself
+##  STRUCTURE
+*	`README.md`:  cheatsheet itself.
+*	`test.py`:    file to try all shortcuts.
 
 ## 	SYNTAX OF THE LANGUAGE
 

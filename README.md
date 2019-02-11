@@ -1,6 +1,9 @@
-## 	VIM CHEATSHEET
+# 	VIM CHEATSHEET
 
-# 	SYNTAX OF THE LANGUAGE
+*	`test.py` file to try all shortcuts
+*	`README.md` cheatsheet itself
+
+## 	SYNTAX OF THE LANGUAGE
 
 Verb + Noun
 

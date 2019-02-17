@@ -62,9 +62,13 @@ e.g about these:
 *	df-		=> delete from cursor to next "-" and stay in normal mode
 
 
+### OTHERS
+*	x => 	Delete character in cursor.
+
 ### TO-DO 
 
 *	If it is your first time around, type `vimtutor` in your terminal.
 *	Change save option to other keystroke (ctrl+s).
+*	Mapp keystrokes  for types (:Q as same as :q).
 	
 

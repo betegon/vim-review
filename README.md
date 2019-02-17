@@ -60,5 +60,11 @@ e.g about these:
 *	c/model	=> delete from cursor to  "model" and ready to insert	
 *	cf,		=> delete from cursor to next "," and ready to insert
 *	df-		=> delete from cursor to next "-" and stay in normal mode
-*
+
+
+### TO-DO 
+
+*	If it is your first time around, type `vimtutor` in your terminal.
+*	Change save option to other keystroke (ctrl+s).
+	
 

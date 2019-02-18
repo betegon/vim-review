@@ -1,9 +1,9 @@
 # 	VIM CHEATSHEET
 
 ##  STRUCTURE
-*	`README.md`:  cheatsheet itself.
-*	`test.py`:    file to try all shortcuts.
-
+*	`README.md`:	Cheatsheet itself.
+*	`test.py`:  	File to try all shortcuts.
+*	`.vimrc`:		Vim configuration file with some useful tips (commented in file).
 ## 	SYNTAX OF THE LANGUAGE
 
 Verb + Noun
@@ -31,14 +31,15 @@ Commands are Repeatable and Undoable
 ### Motion (Moving Around)
 
 #### 4 basics
-*	h => 1 character left
-*	j => 1 line down
-*	k => 1 line up
-*	l => 1 character right
+*	h 	=> 1 character left
+*	j	=> 1 line down
+*	k 	=> 1 line up
+*	l 	=> 1 character right
 ### Moving faster
 *	w	=> word (forward by a "word")
 *	b 	=> back (back by a "word")
 *	e	=> end of word (like word but cursor at the end)
+*	A 	=> Append at the end of the line (doesn't matter where is the cursor)
 *	2j	=> down 2 lines (works with other nouns)	
 
 ### Test Objects

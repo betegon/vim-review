@@ -1,8 +1,12 @@
 " This is BT .vimrc file
-set number
-set relativenumber
-set tabstop=4
-set incsearch
+
+
+set number			" Show line number
+
+" Helpful for moving around with e.g 50j, you know how far every line is from current line.
+set relativenumber	
+set tabstop=4 		" Number of spaces in tab.
+set incsearch		" highlight characters while typing a search.
 
 " Remove arrow keys functions in command mode 
 " Did this to get used to  h,j,k,l

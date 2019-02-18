@@ -28,10 +28,18 @@ Commands are Repeatable and Undoable
 
 ## 	Nouns in Vim 
 
-### Motion
+### Motion (Moving Around)
+
+#### 4 basics
+*	h => 1 character left
+*	j => 1 line down
+*	k => 1 line up
+*	l => 1 character right
+### Moving faster
 *	w	=> word (forward by a "word")
 *	b 	=> back (back by a "word")
-*	2j	=> down 2 lines	
+*	e	=> end of word (like word but cursor at the end)
+*	2j	=> down 2 lines (works with other nouns)	
 
 ### Test Objects
 

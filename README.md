@@ -78,6 +78,6 @@ e.g about these:
 
 *	If it is your first time around, type `vimtutor` in your terminal.
 *	Change save option to other keystroke (ctrl+s).
-*	Mapp keystrokes  for types (:Q as same as :q).
+*	Mapp keystrokes  for typos (:Q as same as :q).
 	
 

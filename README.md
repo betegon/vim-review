@@ -1,9 +1,17 @@
 # 	VIM CHEATSHEET
 
+## WHY
+Storing your `.vimrc` file in github is an easy way to work in any machine with internet access, using your vim settings.
+Vim is usually installed in most of the Linux OS.
+
+Just clone it, move it, and you're ready to go
+
+
 ##  STRUCTURE
 *	`README.md`:	Cheatsheet itself.
 *	`test.py`:  	File to try all shortcuts.
 *	`.vimrc`:		Vim configuration file with some useful tips (commented in file).
+
 ## 	SYNTAX OF THE LANGUAGE
 
 Verb + Noun
